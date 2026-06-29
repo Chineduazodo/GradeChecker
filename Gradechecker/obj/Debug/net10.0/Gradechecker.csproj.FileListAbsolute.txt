@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\bin\Debug\net10.0\Gradechecker.exe
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\bin\Debug\net10.0\Gradechecker.deps.json
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\bin\Debug\net10.0\Gradechecker.runtimeconfig.json
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\bin\Debug\net10.0\Gradechecker.dll
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\bin\Debug\net10.0\Gradechecker.pdb
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\Gradechecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\Gradechecker.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\Gradechecker.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\Gradechecker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\Gradechecker.dll
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\refint\Gradechecker.dll
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\Gradechecker.pdb
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\Gradechecker.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Gradechecker\Gradechecker\obj\Debug\net10.0\ref\Gradechecker.dll
